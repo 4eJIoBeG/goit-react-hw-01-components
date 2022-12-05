@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.friendList {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  list-style: none;
+  width: 100%;
+  min-height: 50px;
+  margin: 5px auto;
+  padding: 0;
+}
